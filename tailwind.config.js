@@ -9,7 +9,7 @@ export default {
       },
     },
     fontFamily: {
-      Roboto: ["Roboto, sans -serif"],
+      Roboto: ["Roboto, sans-serif"],
     },
     container: {
       padding: "2rem",
